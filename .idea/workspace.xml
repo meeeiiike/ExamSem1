@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e08b67db-38ba-4a20-a627-63024c58550e" name="Changes" comment="created order class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/exam/OrderManagement.java" afterDir="false" />
+    <list default="true" id="e08b67db-38ba-4a20-a627-63024c58550e" name="Changes" comment="created switch statement as menu. created addOrder method that takes in all 4 pieces of info and creates an object populating the values in.&#10;this order s then passed to the array list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/exam/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/exam/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/exam/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/exam/OrderManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/exam/OrderManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730909402959</updated>
-      <workItem from="1730909403962" duration="3068000" />
+      <workItem from="1730909403962" duration="5544000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1730909450981</created>
@@ -82,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730909763342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="created switch statement as menu. created addOrder method that takes in all 4 pieces of info and creates an object populating the values in.&#10;this order s then passed to the array list">
+      <created>1730912600353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730912600353</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="created order class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created order class" />
+    <MESSAGE value="created switch statement as menu. created addOrder method that takes in all 4 pieces of info and creates an object populating the values in.&#10;this order s then passed to the array list" />
+    <option name="LAST_COMMIT_MESSAGE" value="created switch statement as menu. created addOrder method that takes in all 4 pieces of info and creates an object populating the values in.&#10;this order s then passed to the array list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
